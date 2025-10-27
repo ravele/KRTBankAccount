@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "6WNt0mcvGICPzmxZXiDbFK92uxIaNfI6ErQ42puIrBM=",
+  "Source": "KRTBankAccount.Api",
+  "BasePath": "_content/KRTBankAccount.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

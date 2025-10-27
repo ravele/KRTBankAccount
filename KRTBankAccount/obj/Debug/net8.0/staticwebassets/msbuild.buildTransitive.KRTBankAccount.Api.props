@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\KRTBankAccount.Api.props" />
+</Project>

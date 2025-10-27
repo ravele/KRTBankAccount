@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\KRTBankAccount.Api.props" />
+</Project>

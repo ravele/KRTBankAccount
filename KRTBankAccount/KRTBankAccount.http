@@ -1,0 +1,6 @@
+@KRTBankAccount_HostAddress = http://localhost:5082
+
+GET {{KRTBankAccount_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
