@@ -20,10 +20,15 @@ Estrutura do Projeto
 
 KRTBankAccount/
 │
+
 ├── KRTBankAccount.Domain/         # Entidades, Value Objects, Interfaces
+
 ├── KRTBankAccount.Application/    # Serviços, DTOs
+
 ├── KRTBankAccount.Infrastructure/ # Repositórios, Cache Redis, Dapper
+
 ├── KRTBankAccount.API/            # Controllers, Program.cs
+
 └── KRTBankAccount.Tests/          # Testes unitários
 
 -------------------------------------------------------------------------------
